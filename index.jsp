@@ -143,11 +143,11 @@
   <br>
   <a href="/marche/works/">チーム全体の進捗</a>
   <a href="https://miragedecoy0217-cmd.github.io/marche-online/">プロジェクト計画書</a>
-  <a href="https://cotoacjp-my.sharepoint.com/:x:/g/personal/25i1010_coto_ac_jp/IQBbrNmBQjQ4TbH6-YvBgOoQAZGssEgJuZwil4b13sfdL4Q?e=9vJ9jN">WBS</a>
-  <a href="/marche/works/">成果物</a>
+  <a href="https://miragedecoy0217-cmd.github.io/marche-online/wbs.html">WBS</a>
   <br>
 <!-- 個人のタスク進捗（アコーディオン化） -->
-  <div class="menu-label js-accordion-toggle">個人のタスク進捗</div>
+  <div class="menu-label js-accordion-toggle">個人のタスク＆成果物
+  </div>
   <div class="menu-child">
     <a href="/marche/Nishizono/">西園</a>
     <a href="/marche/Teramoto/">寺本</a>
