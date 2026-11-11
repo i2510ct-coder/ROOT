@@ -170,7 +170,7 @@
 
 <div class="content">
   <h1>ようこそ ECサイトへ</h1>
-  <a href="https://172.16.1.123/marche-online/products">商品一覧へ</a>
+  <a href="/marche-online/">ECサイトのトップへ</a>
 </div>
 
 <script>
