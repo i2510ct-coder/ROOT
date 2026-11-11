@@ -1,0 +1,10 @@
+<html>
+<head><title>商品一覧</title></head>
+<body>
+<h1>商品一覧</h1>
+
+<a href="syousai.jsp?id=1">商品1の詳細へ</a><br>
+<a href="syousai.jsp?id=2">商品2の詳細へ</a><br>
+
+</body>
+</html>

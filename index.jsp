@@ -139,7 +139,7 @@
 
 <nav class="menu" id="menu">
   <a href="index.jsp">トップ</a>
-  <a href="top.jsp">商品一覧</a>
+  <a href="https://172.16.1.123/marche-online/products">商品一覧</a>
   <br>
   <a href="/marche/works/">チーム全体の進捗</a>
   <a href="https://miragedecoy0217-cmd.github.io/marche-online/">プロジェクト計画書</a>
@@ -170,7 +170,7 @@
 
 <div class="content">
   <h1>ようこそ ECサイトへ</h1>
-  <a href="top.jsp">商品一覧へ</a>
+  <a href="https://172.16.1.123/marche-online/products">商品一覧へ</a>
 </div>
 
 <script>

@@ -1,0 +1,15 @@
+<html>
+<head><title>商品詳細</title></head>
+<body>
+<h1>商品詳細ページ</h1>
+
+<%
+    String id = request.getParameter("id");
+%>
+
+<p>商品ID: <%= id %></p>
+
+<a href="top.jsp">商品一覧へ戻る</a>
+
+</body>
+</html>
